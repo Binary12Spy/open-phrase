@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP BHR-06-VUA
+D Box Header, Vertical, 6 Pos
+K
+F https://app.adam-tech.com/products/download/data_sheet/203218/bhr-xx-vua-data-sheet.pdf
+$ENDCMP
+#
+$CMP ASE-8.000MHZ-LC-T
+D ABRACON - ASE-8.000MHZ-LC-T - Oscillator, 8 MHz, 50 ppm, SMD, 3.2mm x 2.5mm, LVCMOS, 3.3 V, ASE Series
+K
+F https://abracon.com/Oscillators/ASEseries.pdf
+$ENDCMP
+#
+$CMP HDM16216H-4-S00S
+D LCD Character Display Modules & Accessories Gray Reflective
+K
+F 
+$ENDCMP
+#
+#End Doc Library
